@@ -6,8 +6,9 @@
 
   "browser_specific_settings": {
     "gecko": {
-      "id": "zen-tabs-bridge@yourname",
-      "strict_min_version": "109.0"
+      "id": "zen-tabs-bridge@paulo",
+      "strict_min_version": "109.0",
+      "update_url": "https://pin7o.uk/updates.json"
     }
   },
 
